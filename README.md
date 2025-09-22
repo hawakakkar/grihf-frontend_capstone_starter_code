@@ -17,4 +17,5 @@ This project is a Medical Appointment Booking website that allows users to sched
 ## Notes
 - The current version stores data locally.
 - Make sure to use a modern browser (Chrome, Firefox, or Edge) for best experience.
-- Further development may include backend integration and database support.
+- Further development may include backend integration and database supports.
+git commit -m "Created README.md with Medical Appointment Booking project details"
